@@ -21,8 +21,6 @@ Sou estudante no curso de `Sistemas de Informação (UNEB | 4/9)` e tenho como f
   <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" alt="JUnit" width="40" height="40"/> <!-- Ícone do JUnit -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
-<br><br>
-
   
   ##
  
