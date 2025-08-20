@@ -3,6 +3,7 @@
 Sou estudante no curso de `Sistemas de Informação (UNEB | 4/9)` e tenho como foco em `Java e Back-End`
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanjica&layout=compact&theme=dracula)
+<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanjica&show_icons=true&theme=dracula)
 <br>
 
